@@ -30,12 +30,12 @@ Provide data on profitability, competitors, etc., for user to determine if there
 
 #### HOME LANDING PAGE
 
-![Images/landingResize.png](images/home.png)
+![Images/landingResize.png](images/home.jpg)
 
 #### FULL INFO PAGE
 
-![Images/landingResize.png](images/data.png)
-![Images/landingResize.png](images/data2.png)
+![Images/landingResize.png](images/data.jpg)
+![Images/landingResize.png](images/data2.jpg)
 
 #### NAVBAR PAGE
 ![Images/landingResize.png](images/navbar.png)
