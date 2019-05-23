@@ -1,7 +1,9 @@
 (async function(){
   
-  interest_over_time = await d3.json("/interest_over_time/".concat(keywords));
+  interest_over_time = await d3.json("/interest_over_time/");
 
+  console.log(interest_over_time)
+  
   // Print the forceData
   console.log(interest_over_time);
 
@@ -47,4 +49,6 @@ const data = [trace1, trace2, trace3, trace4, trace5];
 // This will use default parameters for the layout
 Plotly.newPlot("plot", data);
 })()
+
+
 
